@@ -1,0 +1,24 @@
+/* General Styles */
+@import "tailwindcss";
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  width: 100%;
+}
+
+/* Header Styles */
+.header {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+}
+
+/* Zenify Navigator Section */
+.zenify-navigator {
+  text-align: center;
+  padding: 50px 20px;
+  background-color: #fff;
+}
